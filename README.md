@@ -24,7 +24,7 @@ Currently building intelligent systems at zag to transform how our organization 
 - Object-oriented programming
 
 ### AI/ML
-- LLM and Vision Model APIs
+- LLM and vision model APIs
 - RAG systems
 - Prompt engineering
 - Tokenization
