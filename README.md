@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Ryan Baillargeon
 
-## 🚀 About Me
+## 🚀 About me
 Backend Engineer | AI Tools Specialist at zag
 
 Currently building intelligent systems at zag that transform how our organization works. I'm passionate about leveraging AI to solve complex business challenges and create scalable solutions.
 
-## 🛠️ Recent Project Highlight
-**[AI-Powered Time Tracking System](https://github.com/ryanbaill/timetracking-automation)**
+## 🛠️ Recent project highlight
+**[AI-powered time tracking system](https://github.com/ryanbaill/timetracking-automation)**
 - Architected and deployed an organization-wide solution on AWS
 - Tech Stack:
   - AWS Lambda for serverless compute
@@ -17,34 +17,34 @@ Currently building intelligent systems at zag that transform how our organizatio
 - Built automated data pipelines for timesheet reporting
 - Impact: Drove exponential revenue growth and project profitability
 
-## 💻 Technical Skills
+## 💻 Technical skills
 
-### Languages & Core
+### Languages & core
 - Python
-- Object-Oriented Programming
+- Object-oriented programming
 
 ### AI/ML
 - LLM and Vision Model APIs
-- RAG Systems
-- Prompt Engineering
+- RAG systems
+- Prompt engineering
 - Tokenization
-- Text Embedding
+- Text embedding
 
 ### Cloud & DevOps
 - AWS
 - Docker
 - Vercel
-- Serverless Architecture
-- CI/CD Pipelines
-- Log Analysis
-- Error Tracking
-- Performance Monitoring
+- Serverless architecture
+- CI/CD pipelines
+- Log analysis
+- Error tracking
+- Performance monitoring
 
-### Backend Development
+### Backend development
 - RESTful APIs
 - Webhooks
-- Data Pipelines
-- Database Design
+- Data pipelines
+- Database design
 - Microservices
 
 ### Databases
@@ -52,36 +52,36 @@ Currently building intelligent systems at zag that transform how our organizatio
 - NoSQL
 - Vector
 
-### Development Tools
+### Development tools
 - Cursor
 - VSCode
 - GitHub
 
-### Operating Systems
+### Operating systems
 - MacOS
 - Linux
 - Windows
 
-## 🌱 Currently Working On
+## 🌱 Currently working on
 
 ### At zag
-**LLM-based Analytics System**
-- Automating project cost estimation and quoting
+**LLM-based organization analytics system**
+- Automating new project cost estimation and quoting
 - Automating timesheet analysis
-- Project profitability reporting
-- Agency productivity insights
-- Integration with existing time-tracking infrastructure
+- Automating project profitability reporting
+- Automating agency productivity insights
+- Integrating with existing time-tracking infrastructure
 
-### Personal Projects
+### Personal projects
 
-#### 1. LLM-Powered Health Application
+#### 1. LLM-powered health application
 Leading full-stack development in collaboration with an established medical practitioner to develop a health analysis and optimization application for iOS and WatchOS
 - Engineering backend architecture with Python, AWS, and multi-LLM integration
 - Implementing RAG system with Pinecone for clinical knowledge base integration
 - Designing scalable microservices for real-time health data processing
 - Building HIPAA-compliant AWS infrastructure
 
-#### 2. AI Landing Page CRO Auditing Tool
+#### 2. AI landing page CRO auditing tool
 Building an AI-powered conversion rate optimization tool for website developers
 - Architecting backend with Python, AWS, Claude, and GPT4o Vision
 - Implementing RAG system with Pinecone for use of industry insights and data
