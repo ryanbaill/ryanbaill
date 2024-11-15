@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ryan Baillargeon
+# 👋 Hey, I'm Ryan
 
 ## 🚀 About me
 Backend Engineer | AI Tools Specialist at zag
