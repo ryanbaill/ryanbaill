@@ -50,7 +50,7 @@ Currently building intelligent systems at zag that transform how our organizatio
 ### Databases
 - SQL
 - NoSQL
-- Vector Databases
+- Vector
 
 ### Development Tools
 - Cursor
