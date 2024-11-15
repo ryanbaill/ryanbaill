@@ -74,7 +74,7 @@ Currently building intelligent systems at zag that transform how our organizatio
 
 ### Personal Projects
 
-#### 1. LLM-Powered Health Application (iOS/WatchOS)
+#### 1. LLM-Powered Health Application
 Leading full-stack development in collaboration with an established medical practitioner to develop a health analysis and optimization application for iOS and WatchOS
 - Engineering backend architecture with Python, AWS, and multi-LLM integration
 - Implementing RAG system with Pinecone for clinical knowledge base integration
