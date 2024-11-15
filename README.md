@@ -25,7 +25,6 @@ Currently building intelligent systems at zag to transform how our organization 
 - Automating timesheet analysis
 - Automating project profitability reports
 - Automating agency productivity insights
-- Integrating with existing time-tracking infrastructure
 
 ### Personal projects
 #### LLM-powered health application
