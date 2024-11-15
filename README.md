@@ -17,6 +17,30 @@ Currently building intelligent systems at zag to transform how our organization 
 - Built automated data pipelines for timesheet reporting
 - Impact: Drove exponential revenue growth and project profitability
 
+## 🌱 Currently working on
+
+### At zag
+**LLM-based organization analytics system**
+- Automating new project cost estimation and quoting
+- Automating timesheet analysis
+- Automating project profitability reports
+- Automating agency productivity insights
+- Integrating with existing time-tracking infrastructure
+
+### Personal projects
+#### LLM-powered health application
+Leading full-stack development in collaboration with an established medical practitioner to develop a health analysis and optimization application for iOS and WatchOS
+- Engineering backend architecture with Python, AWS, and multi-LLM integration
+- Implementing RAG system with Pinecone for clinical knowledge base integration
+- Designing scalable microservices for real-time health data processing
+- Building HIPAA-compliant AWS infrastructure
+
+#### AI landing page CRO auditing tool
+Building an AI-powered conversion rate optimization tool for website developers
+- Architecting backend with Python, AWS, Claude, and GPT4o Vision
+- Implementing RAG system with Pinecone for use of industry insights and data
+- Developing RESTful APIs for Webflow integration
+
 ## 💻 Technical skills
 
 ### Languages & core
@@ -61,29 +85,4 @@ Currently building intelligent systems at zag to transform how our organization 
 - MacOS
 - Linux
 - Windows
-
-## 🌱 Currently working on
-
-### At zag
-**LLM-based organization analytics system**
-- Automating new project cost estimation and quoting
-- Automating timesheet analysis
-- Automating project profitability reporting
-- Automating agency productivity insights
-- Integrating with existing time-tracking infrastructure
-
-### Personal projects
-
-#### 1. LLM-powered health application
-Leading full-stack development in collaboration with an established medical practitioner to develop a health analysis and optimization application for iOS and WatchOS
-- Engineering backend architecture with Python, AWS, and multi-LLM integration
-- Implementing RAG system with Pinecone for clinical knowledge base integration
-- Designing scalable microservices for real-time health data processing
-- Building HIPAA-compliant AWS infrastructure
-
-#### 2. AI landing page CRO auditing tool
-Building an AI-powered conversion rate optimization tool for website developers
-- Architecting backend with Python, AWS, Claude, and GPT4o Vision
-- Implementing RAG system with Pinecone for use of industry insights and data
-- Developing RESTful APIs for Webflow integration
 
