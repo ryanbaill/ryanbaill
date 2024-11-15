@@ -66,8 +66,8 @@ Currently building intelligent systems at zag that transform how our organizatio
 
 ### At Zag
 **LLM-based Analytics System**
-- Automated project cost estimation and quoting
-- Automated timesheet analysis
+- Automating project cost estimation and quoting
+- Automating timesheet analysis
 - Project profitability reporting
 - Agency productivity insights
 - Integration with existing time-tracking infrastructure
