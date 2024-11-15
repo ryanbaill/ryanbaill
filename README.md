@@ -8,7 +8,7 @@ Currently building intelligent systems at zag to transform how our organization 
 ## 🛠️ Recent project highlight
 **[AI-powered time tracking system](https://github.com/ryanbaill/timetracking-automation)**
 - Architected and deployed an organization-wide solution on AWS
-- Tech Stack:
+- Tech stack:
   - AWS Lambda for serverless compute
   - DynamoDB for data storage and backups
   - CloudWatch for monitoring and logging
