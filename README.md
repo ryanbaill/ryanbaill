@@ -84,6 +84,6 @@ Leading full-stack development in collaboration with an established medical prac
 #### 2. AI Landing Page CRO Auditing Tool
 Building an AI-powered conversion rate optimization tool for website developers
 - Architecting backend with Python, AWS, Claude, and GPT4o Vision
-- Implementing RAG system with Pinecone for use industry insights and data
+- Implementing RAG system with Pinecone for use of industry insights and data
 - Developing RESTful APIs for Webflow integration
 
