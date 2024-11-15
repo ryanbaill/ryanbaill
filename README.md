@@ -64,7 +64,7 @@ Currently building intelligent systems at zag that transform how our organizatio
 
 ## 🌱 Currently Working On
 
-### At Zag
+### At zag
 **LLM-based Analytics System**
 - Automating project cost estimation and quoting
 - Automating timesheet analysis
