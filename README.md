@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Ryan
 
 ## 🚀 About me
-Backend Engineer | AI Tools Specialist at zag
+AI Specialist at zag
 
 Currently building intelligent systems at zag to transform how our organization works. I'm passionate about leveraging AI to solve complex business challenges and create scalable solutions.
 
